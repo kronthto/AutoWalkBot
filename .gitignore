@@ -1,0 +1,12 @@
+*.class
+.classpath
+.project
+
+*.jar
+*.war
+*.ear
+/bin
+/releases
+/target
+
+/.idea

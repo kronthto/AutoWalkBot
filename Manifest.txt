@@ -1,0 +1,2 @@
+Class-Path: system-hook-3.2.jar
+Main-Class: de.kronthto.autowalk.Program
